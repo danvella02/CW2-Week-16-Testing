@@ -2,7 +2,6 @@ var cacheName = "lessons";
 var cacheFiles = [
     'index.html', 
     'products.js',
-    'style.css',
     'petstore.webmanifest',
     'images/yarn.jpg',
     'images/cat-litter.jpg',
